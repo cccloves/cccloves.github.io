@@ -1,5 +1,5 @@
 ---
-title: chiemon Blog
+title: yujinx Blog
 layout: post
 ---
 
