@@ -33,7 +33,7 @@ disqus:
 permalink: /:year/:month/:day/:title.html # 博文的固定链接
 markdown: kramdown
 highlighter: rouge
-mathjax: disabled  # disabled
+mathjax: enabled  # disabled
 sass:
   style: compressed
 
