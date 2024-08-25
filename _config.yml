@@ -28,8 +28,6 @@ disqus:
   shortname: yujinx
 
 # google analytics config
-ga:
-  url: yujinx.github.io
 
 # Build settings
 permalink: /:year/:month/:day/:title.html # 博文的固定链接
