@@ -6,6 +6,7 @@ layout: post
 ## 个人信息
 
 - 姓名：俞 今
+- Email: yu-yh24@mails.tsinghua.edu.cn
 - 英文名：Estella
 - 学习方向：ML/DL
 - 地址：武汉/北京/上海
