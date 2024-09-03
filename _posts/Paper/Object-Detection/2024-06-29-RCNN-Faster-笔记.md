@@ -7,7 +7,7 @@ keywords: RCNN, Selective-Search, NMS, 迁移学习
 description:
 ---
 
-<center>
+
 # RCNN
 <img src="https://raw.githubusercontent.com/chiemon/chiemon.github.io/master/img/RCNN/1.png">
 
